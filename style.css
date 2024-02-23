@@ -794,6 +794,9 @@ footer::after{
     width: 50ch;
     max-width: 80%;
 }
+.footer-card-content a:hover{
+    background-color: #fdb85781;
+}
 
 footer .logo img{
     width: 12rem;
@@ -825,6 +828,9 @@ footer .col-md-3 span, footer .col-md-3 a{
     justify-content: space-between;
     align-items: center;
     color: rgba(255,255,255,0.6);
+}
+.btn-footer:hover{
+    background-color: #fdb85781;
 }
 
 .copyright .container a{
